@@ -1,0 +1,8 @@
+# Arduino binaries
+**/*.hex
+
+# VSCode settings
+.vscode
+
+# GIMP art files
+Art
